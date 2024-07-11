@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **node, express, aws, docker, flutter, firebase**
 
-- 📫 How to reach me **ishita_11@yahoo.com**
-
 - 📄 Resume [https://drive.google.com/file/d/1nkuVNcgqkWTLNf3intu9A4Kswt081eJE/view?usp=sharing](https://drive.google.com/file/d/1nkuVNcgqkWTLNf3intu9A4Kswt081eJE/view?usp=sharing)
 
 - ⚡ Fun fact **I love going to hackathons and turning caffeine into code!**
