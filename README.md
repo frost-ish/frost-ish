@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">Currently exploring DevOps & Cyber Security. Passionate about coding and innovation.</h3>
+<h3 align="center">Currently exploring AI. Passionate about coding and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frost-ish&label=Profile%20views&color=0e75b6&style=flat" alt="frost-ish" /> </p>
 
-- 🌱 I’m currently learning **react, devops, computer networks**
+- 🌱 I’m currently learning **OpenCV, AI, Devops**
 
 - 💬 Ask me about **node, express, aws, docker, flutter, firebase**
-
-- 📄 Resume [https://drive.google.com/file/d/1nkuVNcgqkWTLNf3intu9A4Kswt081eJE/view?usp=sharing](https://drive.google.com/file/d/1nkuVNcgqkWTLNf3intu9A4Kswt081eJE/view?usp=sharing)
 
 - ⚡ Fun fact **I love going to hackathons and turning caffeine into code!**
 
